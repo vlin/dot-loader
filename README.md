@@ -1,5 +1,7 @@
 # [dot](https://github.com/olado/doT) loader for [webpack](http://webpack.github.io/)
 
+New feautre: Convert the image url to absolute url.
+
 ## Usage
 
 [Documentation: Using loaders](http://webpack.github.io/docs/using-loaders.html)

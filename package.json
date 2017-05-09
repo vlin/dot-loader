@@ -1,6 +1,6 @@
 {
-  "name": "dot-loader",
-  "description": "dot template loader for webpack",
+  "name": "dot-loader-with-image",
+  "description": "dot template loader for webpack, and convert the image url to absolute url.",
   "author": "Ross Pfahler <ross.pfahler@gmail.com>",
   "main": "index.js",
   "version": "0.1.1",
